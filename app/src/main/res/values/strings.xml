@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lamborghini Store</string>
+
+    <string name="car_weight_title">Weight: </string>
+    <string name="car_horsepower_title">Horsepower: </string>
+    <string name="car_price_title">Price: </string>
+
+    <!-- color names -->
+    <string name="all_menu_items">All</string>
+    <string name="color_yellow">Yellow</string>
+    <string name="color_white">White</string>
+    <string name="color_black">Black</string>
+    <string name="color_green">Green</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_gray">Gray</string>
+
+
+</resources>

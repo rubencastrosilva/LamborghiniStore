@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@android:color/black">
+
+    <ImageView
+            android:id="@+id/iv_car_detail_image"
+            android:layout_width="match_parent"
+            android:layout_height="290dp"
+            android:scaleType="fitXY"
+            tools:src="@mipmap/ic_launcher"/>
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp">
+
+        <LinearLayout
+                android:id="@+id/ll_car_weight_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginStart="16dp">
+
+            <TextView
+                    android:id="@+id/tv_car_weight_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    android:text="@string/car_weight_title"
+                    android:textColor="@android:color/white"/>
+
+            <TextView
+                    android:id="@+id/tv_car_weight_info"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:textSize="18sp"
+                    tools:text="3,000k"
+                    android:textColor="@android:color/white"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+                android:id="@+id/ll_car_horsepower_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ll_car_weight_container"
+                android:layout_marginTop="16dp"
+                android:layout_marginStart="16dp">
+
+            <TextView
+                    android:id="@+id/tv_car_horsepower_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    android:text="@string/car_horsepower_title"
+                    android:textColor="@android:color/white"/>
+
+            <TextView
+                    android:id="@+id/tv_car_horsepower_info"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:textSize="18sp"
+                    tools:text="3,000k"
+                    android:textColor="@android:color/white"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+                android:id="@+id/ll_car_price_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ll_car_horsepower_container"
+                android:layout_marginTop="16dp"
+                android:layout_marginStart="16dp">
+
+            <TextView
+                    android:id="@+id/tv_car_price_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    android:text="@string/car_price_title"
+                    android:textColor="@android:color/white"/>
+
+            <TextView
+                    android:id="@+id/tv_car_price_info"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:textSize="18sp"
+                    tools:text="3,000k"
+                    android:textColor="@android:color/white"/>
+
+        </LinearLayout>
+
+
+        <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_alignParentBottom="true"
+                android:scaleType="fitXY"/>
+
+    </RelativeLayout>
+
+</LinearLayout>

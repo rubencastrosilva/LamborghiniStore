@@ -1,0 +1,113 @@
+{"cars": [
+    {
+      "carModelName": "Lamborghini Urus",
+      "carImageUrl": "https://i.pinimg.com/originals/30/8a/f7/308af708efd3333910a21fe093dda0d7.jpg",
+      "carColorId": "1",
+      "carSpecs":
+      {
+        "carWeight": "2,200kg",
+        "carHorsepower": "641hp",
+        "carSalePrice": "$200,000,"
+      }
+    },
+    {
+      "carModelName": "Lamborghini Huracan",
+      "carImageUrl": "http://s1.1zoom.me/prev/459/458872.jpg",
+      "carColorId": "2",
+      "carSpecs":
+      {
+        "carWeight": "1,550kg",
+        "carHorsepower": "640hp",
+        "carSalePrice": "$200,000,"
+      }
+    },
+    {
+      "carModelName": "Lamborghini Aventador",
+      "carImageUrl": "http://s1.1zoom.me/prev/524/Lamborghini_Aventador_Mansory_Grey_Carbon_fiber_523166_300x200.jpg",
+      "carColorId": "3",
+      "carSpecs":
+      {
+        "carWeight": "2,100kg",
+        "carHorsepower": "702hp",
+        "carSalePrice": "$340,000,"
+      }
+    },
+    {
+      "carModelName": "Lamborghini Reventon",
+      "carImageUrl": "http://s1.1zoom.net/prev/345/344142.jpg",
+      "carColorId": "2",
+      "carSpecs":
+      {
+        "carWeight": "1,900kg",
+        "carHorsepower": "621hp",
+        "carSalePrice": "$220,000,"
+      }
+    },
+    {
+      "carModelName": "Lamborghini Murcielago",
+      "carImageUrl": "https://parkers-images.bauersecure.com/pagefiles/193747/cut-out/600x400/murc.jpg",
+      "carColorId": "4",
+      "carSpecs":
+      {
+        "carWeight": "1,750kg",
+        "carHorsepower": "585hp",
+        "carSalePrice": "$180,000,"
+      }
+    },
+    {
+      "carModelName": "Lamborghini Asterion",
+      "carImageUrl": "https://3.bp.blogspot.com/-8u9Fs5II7sc/V9T7qqptUBI/AAAAAAAADF0/Zrw0srMyBe8rm4Y8i7WrcMLwbI4ca9i2ACLcB/s1600/lamborghini-asterion.jpg",
+      "carColorId": "5",
+      "carSpecs":
+      {
+        "carWeight": "2,500kg",
+        "carHorsepower": "620hp",
+        "carSalePrice": "$245,000,"
+      }
+    },
+    {
+      "carModelName": "Lamborghini Estoque",
+      "carImageUrl": "https://s-media-cache-ak0.pinimg.com/originals/1c/21/50/1c21501db296a2a38022ca2b22ea3c9e.jpg",
+      "carColorId": "6",
+      "carSpecs":
+      {
+        "carWeight": "2,300kg",
+        "carHorsepower": "605hp",
+        "carSalePrice": "$236,000,"
+      }
+    },
+    {
+      "carModelName": "Lamborghini Gallardo",
+      "carImageUrl": "https://i.pinimg.com/originals/e4/c7/64/e4c7649da413491e1bcc76ffe977fa69.jpg",
+      "carColorId": "4",
+      "carSpecs":
+      {
+        "carWeight": "1,700kg",
+        "carHorsepower": "510hp",
+        "carSalePrice": "$180,000,"
+      }
+    },
+    {
+      "carModelName": "Lamborghini Spyder",
+      "carImageUrl": "http://1.bp.blogspot.com/-ZraCD1nAFdc/TldOtRPGVhI/AAAAAAAAAew/Up7qw8jNs1Q/s1600/Lamborghini-Gallardo_LP570-4_Spyder_Performante_2011_800x600_wallpaper_05.jpg",
+      "carColorId": "2",
+      "carSpecs":
+      {
+        "carWeight": "1,400kg",
+        "carHorsepower": "515hp",
+        "carSalePrice": "$155,000,"
+      }
+    },
+    {
+      "carModelName": "Lamborghini Centenario",
+      "carImageUrl": "https://www.forbes.com.mx/2016/03/2017_lamborghini_centenario_.jpg",
+      "carColorId": "3",
+      "carSpecs":
+      {
+        "carWeight": "1,950kg",
+        "carHorsepower": "745hp",
+        "carSalePrice": "$315,500,"
+      }
+    }
+  ]
+}
